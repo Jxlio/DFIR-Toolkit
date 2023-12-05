@@ -54,6 +54,6 @@ This project is licensed under the MIT License.
 
 ## Authors
 
--  [@Jxlio](https://github.com/Jxlio))
+-  [@Jxlio](https://github.com/Jxlio)
 
 
